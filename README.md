@@ -8,3 +8,4 @@ HTML5, CSS3 e JavaScript.
 Projeto funcionando: https://calculadora-imc-five-pearl.vercel.app/ <br>
 <hr> 
 
+![Calculator-IMC](https://user-images.githubusercontent.com/102002978/197438533-7a62384d-4b56-4a54-8f38-8eb357afaeb8.PNG)
